@@ -19,7 +19,7 @@ botocore==1.23.23
 bs4==0.0.1
 cached-properties==0.7.4
 cachetools==4.2.4
-celery==5.2.1
+celery==5.2.2
 certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.8
