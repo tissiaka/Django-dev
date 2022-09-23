@@ -130,7 +130,7 @@ pluggy==1.0.0
 premailer==3.10.0
 proglog==0.1.9
 prompt-toolkit==3.0.22
-protobuf==3.19.1
+protobuf==3.19.5
 py-solc-x==1.1.1
 pybase64==1.2.0
 pycodestyle==2.7.0
